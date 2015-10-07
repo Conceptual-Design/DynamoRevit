@@ -97,6 +97,15 @@ namespace Revit.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to There is no CableTrayType of the given name in the current Document..
+        /// </summary>
+        internal static string CableTrayTypeNotFound {
+            get {
+                return ResourceManager.GetString("CableTrayTypeNotFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Could not find cell for panel.
         /// </summary>
         internal static string CellForPanelNotFound {

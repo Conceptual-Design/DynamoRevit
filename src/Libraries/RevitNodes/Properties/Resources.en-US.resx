@@ -303,4 +303,7 @@
   <data name="WallTypeNotFound" xml:space="preserve">
     <value>There is no WallType of the given name in the current Document.</value>
   </data>
+  <data name="CableTrayTypeNotFound" xml:space="preserve">
+    <value>There is no CableTrayType of the given name in the current Document.</value>
+  </data>
 </root>
